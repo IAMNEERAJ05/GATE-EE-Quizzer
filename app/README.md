@@ -3,7 +3,7 @@
 **A game-style drill app for GATE EE (Electrical Engineering) and General Aptitude.**
 Short rounds on formulas, rules and concepts, with spaced repetition and fresh numbers every time. It works offline on a phone or a laptop.
 
-**▶ Open the app:** https://iamneeraj05.github.io/GATE-EE-Quizzer/
+**▶ Open the app:** https://iamneeraj05.github.io/GATE-EE-Quizzer/app
 
 > This is not a mock test. It is closer to flash cards with game mechanics: you recall a formula, spot a wrong one, pick when a result holds, or work out a quick number. Each answer is followed by the reason and the clean formula. Inspired by the *Formula Builder* game in IMS AptiBuilder.
 
